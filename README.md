@@ -1,4 +1,3 @@
-# acd-demo
 # Automate Terraform with GitHub Actions
 
 Reference Links:
